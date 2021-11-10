@@ -7,7 +7,14 @@ public class Aluno {
     
     
     public double calcularMedia(){
-        return this.nota1 + this.nota2 / 2;
+        return (this.nota1 + this.nota2) / 2;
+    }
+    public String verificarSituacao(){
+        if(calcularMedia() >= 6){
+            return "Aprovado";
+        }else {
+            return "Reprovado";
+        }
     }
     
 }
