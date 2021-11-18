@@ -1,4 +1,4 @@
-# aulas-web-3
+# Aulas Desenvolvimento de Sistemas Web 3
 Exercícios e práticas feitos em Java no módulo desenvolvimento de sistemas Web 3
 
 * 1: "Cadastro Cliente". Classe em Java com cadastro de clientes com valores fixos.
