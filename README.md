@@ -14,3 +14,4 @@ Exercícios e práticas feitos em Java no módulo desenvolvimento de sistemas We
 * 11: "Cadastro Pessoa Encapsulamento". Exercício de uso de encapsulamento e método ToString.
 * 12: "Endereço Privado". Cadastro de endereço usando encapsulamento e método ToString.
 * 13: "Classe Nadador Desafio 5". Classe de cadastro de nadador usando estruturas condicionais, método ToString e operadores lógicos. Desafio 5.
+* 14: "Calcular Vendas". Classe em java para calcular vendas com estruturas condicionais para cada porcentagem de vendas.
