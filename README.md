@@ -15,3 +15,5 @@ Exercícios e práticas feitos em Java no módulo desenvolvimento de sistemas We
 * 12: "Endereço Privado". Cadastro de endereço usando encapsulamento e método ToString.
 * 13: "Classe Nadador Desafio 5". Classe de cadastro de nadador usando estruturas condicionais, método ToString e operadores lógicos. Desafio 5.
 * 14: "Calcular Vendas". Classe em java para calcular vendas com estruturas condicionais para cada porcentagem de vendas.
+* 15: "Caixa eletrônico". Projeto de simulação de um caixa eletrônico, inserindo um valor e retornando com as notas que seriam retiradas somando o valor do saque.
+* 14: "Horóscopo". Projeto que calcula a data do usuário de acordo com a data atual e retorna com a idade e o signo da pessoa.
